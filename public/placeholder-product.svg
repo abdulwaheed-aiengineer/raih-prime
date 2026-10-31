@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#F1F5F9"/>
+  <rect x="120" y="100" width="160" height="200" rx="12" fill="#E2E8F0" stroke="#CBD5E1" stroke-width="4"/>
+  <circle cx="200" cy="180" r="36" fill="#CBD5E1"/>
+  <path d="M150 250H250" stroke="#94A3B8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M170 270H230" stroke="#94A3B8" stroke-width="6" stroke-linecap="round"/>
+  <text x="200" y="340" text-anchor="middle" fill="#64748B" font-family="sans-serif" font-size="16" font-weight="600">RAI H PRIME</text>
+</svg>
