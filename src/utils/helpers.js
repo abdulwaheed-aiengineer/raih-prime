@@ -32,7 +32,7 @@ export const COMPANY_INFO = {
   domain: 'raihprime.store',
   website: 'https://raihprime.store',
   email: 'support@raihprime.store',
-  phone: '+1 (410) 844-3290',
+  phone: '+1 (240) 240-5923',
   operatingHours: 'Mon - Sat: 8:00 AM - 7:00 PM EST',
   freeShippingThreshold: 50.00
 };

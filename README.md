@@ -10,7 +10,7 @@ An ultra-modern, high-converting e-commerce web application developed for **RAIH
 - **Headquarters & Fulfillment Center:** 129 E ORANGE CT, PARKVILLE, MD 21234
 - **Official Domain:** [https://raihprime.store](https://raihprime.store)
 - **Customer Care Email:** support@raihprime.store
-- **Customer Care Phone:** +1 (410) 844-3290
+- **Customer Care Phone:** +1 (240) 240-5923
 
 ---
 
