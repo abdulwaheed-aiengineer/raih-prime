@@ -245,7 +245,7 @@ export default function HomeSections() {
               {[...Array(5)].map((_, i) => <Star key={i} className="w-3.5 h-3.5 fill-amber-400" />)}
             </div>
             <p className="text-xs text-slate-600 leading-relaxed italic">
-              "Customer service from Raih Prime was top-notch when I needed to adjust my delivery address. Tassawar and his team run an exemplary business."
+              "Customer service from Raih Prime was top-notch when I needed to adjust my delivery address. The Raih Prime fulfillment team runs an exemplary business."
             </p>
             <div className="pt-2 border-t border-slate-100 flex items-center justify-between text-xs">
               <span className="font-bold text-slate-900">Brian W.</span>

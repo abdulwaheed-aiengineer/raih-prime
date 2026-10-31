@@ -135,7 +135,7 @@ export default function CheckoutModal() {
                 Secure Express Checkout
               </h2>
               <p className="text-[11px] text-slate-500">
-                Dispatched directly from RAI H PRIME LLC • Parkville, MD
+                Dispatched directly from RAIH PRIME LLC • Parkville, MD
               </p>
             </div>
           </div>

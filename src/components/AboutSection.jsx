@@ -27,11 +27,11 @@ export default function AboutSection() {
           </div>
 
           <h1 className="text-3xl sm:text-5xl font-extrabold text-slate-900 font-serif-title tracking-tight">
-            About RAI H PRIME LLC
+            About Raih Prime
           </h1>
 
           <p className="text-base sm:text-lg text-slate-600 leading-relaxed font-light">
-            Founded with a passion for exceptional quality, <strong>RAI H PRIME LLC</strong> is a premier 
+            Founded with a passion for exceptional quality, <strong>RAIH PRIME LLC</strong> is a premier 
             direct-to-consumer distributor of curated gourmet pantry staples, specialty roast coffees, 
             and high-performance nutrition essentials.
           </p>
@@ -47,7 +47,7 @@ export default function AboutSection() {
                 Business Information
               </span>
               <h2 className="text-2xl sm:text-3xl font-bold font-serif-title text-white">
-                Operated by {COMPANY_INFO.soleMember}
+                Dedicated to Pantry Excellence
               </h2>
               <p className="text-sm text-slate-300 leading-relaxed">
                 Operating out of our Parkville, Maryland headquarters, our dedicated team 
@@ -66,7 +66,7 @@ export default function AboutSection() {
                 </div>
                 <div className="flex items-center gap-2.5">
                   <Award className="w-4 h-4 text-amber-400 flex-shrink-0" />
-                  <span><strong>Leadership:</strong> {COMPANY_INFO.soleMember}, Sole Member</span>
+                  <span><strong>Founder & Principal:</strong> {COMPANY_INFO.founder || 'Tassawar Hussain'}</span>
                 </div>
               </div>
             </div>

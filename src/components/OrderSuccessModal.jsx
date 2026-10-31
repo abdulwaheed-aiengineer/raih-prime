@@ -126,7 +126,7 @@ export default function OrderSuccessModal() {
               </span>
               <p className="font-bold text-slate-900">{COMPANY_INFO.legalName}</p>
               <p className="text-slate-600">{COMPANY_INFO.fullAddress}</p>
-              <p className="text-amber-700 font-semibold text-[11px]">Sole Mbr: {COMPANY_INFO.soleMember}</p>
+              <p className="text-emerald-700 font-semibold text-[11px] flex items-center gap-1">✓ Verified Merchant Hub</p>
             </div>
           </div>
 

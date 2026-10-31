@@ -148,7 +148,7 @@ export default function PoliciesModal({ initialTab = 'shipping', onClose }) {
               </p>
               <h4 className="font-bold text-slate-800 text-xs uppercase tracking-wider">1. Legal Entity & Jurisdiction</h4>
               <p>
-                This website is operated by {COMPANY_INFO.legalName}, managed by {COMPANY_INFO.soleMember} (Sole Member), located at {COMPANY_INFO.fullAddress}. Any disputes arising hereunder shall be governed by the laws of the State of Maryland, USA.
+                This website is operated by {COMPANY_INFO.legalName}, located at {COMPANY_INFO.fullAddress}. Any disputes arising hereunder shall be governed by the laws of the State of Maryland, USA.
               </p>
               <h4 className="font-bold text-slate-800 text-xs uppercase tracking-wider">2. Product Accuracy</h4>
               <p>

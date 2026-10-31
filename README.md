@@ -1,12 +1,12 @@
-# RAI H PRIME LLC — Official E-Commerce Storefront
+# RAIH PRIME LLC — Official E-Commerce Storefront
 
-An ultra-modern, high-converting e-commerce web application developed for **RAI H PRIME LLC**, built with **React**, **Vite**, **Tailwind CSS**, and **Lucide Icons**.
+An ultra-modern, high-converting e-commerce web application developed for **RAIH PRIME LLC**, built with **React**, **Vite**, **Tailwind CSS**, and **Lucide Icons**.
 
 ---
 
 ## 🏢 Company Profile
-- **Entity Name:** RAI H PRIME LLC
-- **Sole Member:** TASSAWAR HUSSAIN
+- **Entity Name:** RAIH PRIME LLC
+- **Founder & Principal:** Tassawar Hussain
 - **Headquarters & Fulfillment Center:** 129 E ORANGE CT, PARKVILLE, MD 21234
 - **Official Domain:** [https://raihprime.store](https://raihprime.store)
 - **Customer Care Email:** support@raihprime.store
@@ -56,7 +56,7 @@ An ultra-modern, high-converting e-commerce web application developed for **RAI 
 ### 7. Brand, Trust & Legal Compliance
 - **SEO & Social Graph:** Schema.org Store JSON-LD, Open Graph, Twitter cards, and canonical tags for `https://raihprime.store`.
 - **Search Engine Discovery:** Pre-configured `robots.txt` and `sitemap.xml` for `https://raihprime.store`.
-- **About Us Section:** Highlighting Tassawar Hussain's leadership, quality inspections, and veteran-owned partner support.
+- **About Us Section:** Highlighting company leadership, quality inspections, and veteran-owned partner support.
 - **Contact & Support:** Interactive ticket form, hours of operation, direct phone/email (`support@raihprime.store`), and FAQ accordion.
 - **Store Policies:** Shipping policy, 30-day money-back guarantee & return terms, privacy policy, and terms of service.
 

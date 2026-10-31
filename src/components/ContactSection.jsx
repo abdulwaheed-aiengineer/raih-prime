@@ -17,7 +17,7 @@ import {
 const FAQS = [
   {
     q: 'Where do your products ship from?',
-    a: 'All orders are securely packaged and dispatched directly from our RAI H PRIME LLC fulfillment facility located at 129 E Orange Ct, Parkville, MD 21234.'
+    a: 'All orders are securely packaged and dispatched directly from our RAIH PRIME LLC fulfillment facility located at 129 E Orange Ct, Parkville, MD 21234.'
   },
   {
     q: 'How long will delivery take?',
@@ -101,7 +101,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <strong className="text-slate-900 block text-sm">{COMPANY_INFO.legalName}</strong>
-                    <p className="text-slate-500">Care of: {COMPANY_INFO.soleMember} (Sole Member)</p>
+                    <p className="text-slate-500">Customer Support & Fulfillment Hub</p>
                     <p>{COMPANY_INFO.fullAddress}</p>
                   </div>
                 </div>
@@ -166,7 +166,7 @@ export default function ContactSection() {
                 <CheckCircle2 className="w-12 h-12 text-emerald-600 mx-auto" />
                 <h4 className="font-bold text-slate-900 text-base">Message Successfully Sent!</h4>
                 <p className="text-xs text-slate-600 max-w-sm mx-auto">
-                  Thank you for reaching out to RAI H PRIME LLC. Our team in Parkville, MD has received your inquiry.
+                  Thank you for reaching out to RAIH PRIME LLC. Our team in Parkville, MD has received your inquiry.
                 </p>
               </div>
             ) : (
