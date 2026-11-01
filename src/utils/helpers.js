@@ -20,8 +20,8 @@ export function truncate(str, length = 100) {
 }
 
 export const COMPANY_INFO = {
-  legalName: 'RAIH PRIME LLC',
-  tradeName: 'Raih Prime',
+  legalName: 'RAI H PRIME LLC',
+  tradeName: 'Rai H Prime',
   tagline: 'Premium Pantry, Gourmet Foods & Wellness Essentials',
   founder: 'Tassawar Hussain',
   address: '129 E Orange Ct',

@@ -128,14 +128,14 @@ export default function CheckoutModal() {
         <div className="p-4 sm:p-6 border-b border-slate-100 flex items-center justify-between bg-slate-50/70">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-lg bg-slate-900 p-1.5 flex items-center justify-center">
-              <img src="/logo-icon.svg" alt="Raih Prime" className="w-full h-full" />
+              <img src="/logo-icon.svg" alt="Rai H Prime" className="w-full h-full" />
             </div>
             <div>
               <h2 className="font-bold text-slate-900 text-base sm:text-lg font-serif-title">
                 Secure Express Checkout
               </h2>
               <p className="text-[11px] text-slate-500">
-                Dispatched directly from RAIH PRIME LLC • Parkville, MD
+                Dispatched directly from RAI H PRIME LLC • Parkville, MD
               </p>
             </div>
           </div>

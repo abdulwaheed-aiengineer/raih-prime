@@ -46,7 +46,7 @@ export default function OrderTrackingModal() {
           <div className="flex items-center gap-2">
             <Package className="w-5 h-5 text-amber-600" />
             <h2 className="font-bold text-slate-900 text-base font-serif-title">
-              Track Your Raih Prime Shipment
+              Track Your Rai H Prime Shipment
             </h2>
           </div>
           <button

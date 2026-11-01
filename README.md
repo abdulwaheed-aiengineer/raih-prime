@@ -1,11 +1,11 @@
-# RAIH PRIME LLC — Official E-Commerce Storefront
+# RAI H PRIME LLC — Official E-Commerce Storefront
 
-An ultra-modern, high-converting e-commerce web application developed for **RAIH PRIME LLC**, built with **React**, **Vite**, **Tailwind CSS**, and **Lucide Icons**.
+An ultra-modern, high-converting e-commerce web application developed for **RAI H PRIME LLC**, built with **React**, **Vite**, **Tailwind CSS**, and **Lucide Icons**.
 
 ---
 
 ## 🏢 Company Profile
-- **Entity Name:** RAIH PRIME LLC
+- **Entity Name:** RAI H PRIME LLC
 - **Founder & Principal:** Tassawar Hussain
 - **Headquarters & Fulfillment Center:** 129 E ORANGE CT, PARKVILLE, MD 21234
 - **Official Domain:** [https://raihprime.store](https://raihprime.store)

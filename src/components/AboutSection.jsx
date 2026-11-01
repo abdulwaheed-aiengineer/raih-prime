@@ -27,11 +27,11 @@ export default function AboutSection() {
           </div>
 
           <h1 className="text-3xl sm:text-5xl font-extrabold text-slate-900 font-serif-title tracking-tight">
-            About Raih Prime
+            About Rai H Prime
           </h1>
 
           <p className="text-base sm:text-lg text-slate-600 leading-relaxed font-light">
-            Founded with a passion for exceptional quality, <strong>RAIH PRIME LLC</strong> is a premier 
+            Founded with a passion for exceptional quality, <strong>RAI H PRIME LLC</strong> is a premier 
             direct-to-consumer distributor of curated gourmet pantry staples, specialty roast coffees, 
             and high-performance nutrition essentials.
           </p>
@@ -137,7 +137,7 @@ export default function AboutSection() {
             }}
             className="px-8 py-4 bg-slate-900 hover:bg-slate-800 text-white rounded-2xl font-bold text-sm inline-flex items-center gap-2 shadow-lg hover:shadow-xl transition-all"
           >
-            <span>Explore The Raih Prime Catalog</span>
+            <span>Explore The Rai H Prime Catalog</span>
             <ArrowRight className="w-4 h-4 text-amber-400" />
           </button>
         </div>

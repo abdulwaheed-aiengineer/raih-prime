@@ -77,10 +77,10 @@ export default function Footer({ onOpenPolicy }) {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 rounded-xl bg-slate-900 p-2 border border-slate-700 flex items-center justify-center">
-                <img src="/logo-icon.svg" alt="Raih Prime" className="w-full h-full" />
+                <img src="/logo-icon.svg" alt="Rai H Prime" className="w-full h-full" />
               </div>
               <span className="font-serif-title font-bold text-2xl text-white tracking-tight">
-                RAIH PRIME <span className="text-amber-400 text-sm font-sans uppercase">LLC</span>
+                RAI H PRIME <span className="text-amber-400 text-sm font-sans uppercase">LLC</span>
               </span>
             </div>
             <p className="text-sm text-slate-400 leading-relaxed max-w-sm mb-6">
@@ -93,7 +93,7 @@ export default function Footer({ onOpenPolicy }) {
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-amber-400 flex-shrink-0 mt-0.5" />
                 <span>
-                  <strong className="text-white">RAIH PRIME LLC</strong><br />
+                  <strong className="text-white">RAI H PRIME LLC</strong><br />
                   {COMPANY_INFO.address}, {COMPANY_INFO.city}, {COMPANY_INFO.state} {COMPANY_INFO.zip}
                 </span>
               </div>

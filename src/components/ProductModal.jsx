@@ -301,7 +301,7 @@ export default function ProductModal() {
                   <p>{product.description}</p>
                   {product.folderUrl && (
                     <p className="text-[11px] text-slate-400 pt-2">
-                      Sourced under certified distributor verification for Raih Prime LLC.
+                      Sourced under certified distributor verification for Rai H Prime LLC.
                     </p>
                   )}
                 </div>
@@ -318,7 +318,7 @@ export default function ProductModal() {
                     ))
                   ) : (
                     <div className="p-3 bg-slate-50 rounded-xl border border-slate-200/60 col-span-2 text-slate-500">
-                      Brand: {product.brand} | Category: {product.category} | Hand-inspected by Raih Prime LLC
+                      Brand: {product.brand} | Category: {product.category} | Hand-inspected by Rai H Prime LLC
                     </div>
                   )}
                 </div>
@@ -366,7 +366,7 @@ export default function ProductModal() {
                         {[...Array(5)].map((_, i) => <Star key={i} className="w-3 h-3 fill-amber-400" />)}
                       </div>
                       <p className="text-slate-600 pt-1">
-                        "Great flavor and high quality. Will definitely reorder from Raih Prime again."
+                        "Great flavor and high quality. Will definitely reorder from Rai H Prime again."
                       </p>
                     </div>
                   </div>

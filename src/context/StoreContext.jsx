@@ -152,7 +152,7 @@ export function StoreProvider({ children }) {
 
   // Promo operations
   const applyPromoCode = (code) => {
-    const cleanCode = code.trim().toUpperCase();
+    const cleanCode = code.trim().toUpperCase().replace(/\s+/g, '');
     if (cleanCode === 'RAIHPRIME') {
       setDiscountPercent(15);
       setPromoCode('RAIHPRIME');

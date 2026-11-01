@@ -121,12 +121,12 @@ export default function Header() {
             className="flex items-center gap-2.5 sm:gap-3 cursor-pointer group select-none min-w-0"
           >
             <div className="w-9 h-9 sm:w-11 sm:h-11 rounded-xl bg-gradient-to-br from-slate-900 to-slate-800 p-1.5 sm:p-2 shadow-md border border-slate-700/50 flex items-center justify-center group-hover:scale-105 transition-transform flex-shrink-0">
-              <img src="/logo-icon.svg" alt="Raih Prime" className="w-full h-full object-contain" />
+              <img src="/logo-icon.svg" alt="Rai H Prime" className="w-full h-full object-contain" />
             </div>
             <div className="min-w-0">
               <div className="flex items-center gap-1.5">
                 <span className="font-extrabold text-lg sm:text-2xl tracking-tight text-slate-900 font-serif-title whitespace-nowrap">
-                  RAIH PRIME
+                  RAI H PRIME
                 </span>
                 <span className="hidden sm:inline-block text-[10px] bg-slate-900 text-amber-400 px-1.5 py-0.5 rounded font-bold uppercase tracking-wider">
                   LLC
@@ -223,7 +223,7 @@ export default function Header() {
               onClick={() => handleNavClick('about')}
               className={`hover:text-amber-600 transition-colors py-1 ${activeTab === 'about' ? 'text-amber-600 font-bold border-b-2 border-amber-600' : ''}`}
             >
-              About Raih Prime
+              About Rai H Prime
             </button>
             <button
               onClick={() => handleNavClick('contact')}
@@ -334,7 +334,7 @@ export default function Header() {
               onClick={() => handleNavClick('about')}
               className={`text-left py-2.5 px-3 rounded-xl transition-colors ${activeTab === 'about' ? 'bg-amber-50 text-amber-700 font-bold' : 'hover:bg-slate-100'}`}
             >
-              About Raih Prime
+              About Rai H Prime
             </button>
             <button
               onClick={() => handleNavClick('contact')}

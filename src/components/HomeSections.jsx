@@ -40,7 +40,7 @@ export default function HomeSections() {
           <div>
             <div className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-50 px-2.5 py-1 rounded-full mb-2">
               <Sparkles className="w-3.5 h-3.5 text-amber-600" />
-              <span>Handpicked by Raih Prime</span>
+              <span>Handpicked by Rai H Prime</span>
             </div>
             <h2 className="text-2xl sm:text-3xl font-black text-slate-900 font-serif-title">
               Top Trending & Best Sellers
@@ -245,7 +245,7 @@ export default function HomeSections() {
               {[...Array(5)].map((_, i) => <Star key={i} className="w-3.5 h-3.5 fill-amber-400" />)}
             </div>
             <p className="text-xs text-slate-600 leading-relaxed italic">
-              "Customer service from Raih Prime was top-notch when I needed to adjust my delivery address. The Raih Prime fulfillment team runs an exemplary business."
+              "Customer service from Rai H Prime was top-notch when I needed to adjust my delivery address. The Rai H Prime fulfillment team runs an exemplary business."
             </p>
             <div className="pt-2 border-t border-slate-100 flex items-center justify-between text-xs">
               <span className="font-bold text-slate-900">Brian W.</span>
